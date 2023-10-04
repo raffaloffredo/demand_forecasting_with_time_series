@@ -13,7 +13,7 @@ This study aimed to create a machine learning model to predict the demand for wi
 
 As a result, according to the Mean Absolute Percentage Error (MAPE), the ARIMA model performed the best with an error rate of only 2.33%, followed by Prophet with 2.87% and Holt with 2.90%.
 
-* **[Code File]()** ⚠️UNDER CONSTRUCTION ⚠️
+* **[Code File](https://github.com/raffaloffredo/demand_forecasting_with_time_series/blob/main/%5BLoffredoDS%5D_Demand_forecasting_with_Time_Series.ipynb)**
 * **[Article]()** ⚠️to be released next Tuesday ⚠️
 
 <br/>
