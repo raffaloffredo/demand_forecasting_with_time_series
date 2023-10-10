@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWApZWwMXe9_ymkjJSe_ciD8zUbCnnNbP8qYYknSi4hxd7TIqZ1JnAspLxQahgC-_44sclV-81Px5eYouEDlBZPfHfSrNOO3QcYQtLMkhKLkA6X4XAu3vYsa6HwD0f9W1nXt01Ru1nCfRAZ_Y1EvG_D_VfmRz0Q2Cnxyr1tK-ZjDv_VDomxUx4Bk-4-yk/s16000/clock_ts.png" height=500px>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWApZWwMXe9_ymkjJSe_ciD8zUbCnnNbP8qYYknSi4hxd7TIqZ1JnAspLxQahgC-_44sclV-81Px5eYouEDlBZPfHfSrNOO3QcYQtLMkhKLkA6X4XAu3vYsa6HwD0f9W1nXt01Ru1nCfRAZ_Y1EvG_D_VfmRz0Q2Cnxyr1tK-ZjDv_VDomxUx4Bk-4-yk/s16000/clock_ts.png" height=300px>
 </p>
 <br/>
 
