@@ -22,7 +22,9 @@ As a result, according to the Mean Absolute Percentage Error (MAPE), the ARIMA m
 ## Additional Material 
 The main results obtained were condensed into an infographic.
 
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQGWJIXtqXm8LQ/article-inline_image-shrink_1500_2232/0/1696942041690?e=1702512000&v=beta&t=xnhwmTSG0B43UQpJZMwWEoWu7t3dY9PfbiplBFq_pEQ" width="70%">
+</p>
 
 <br/>
 
